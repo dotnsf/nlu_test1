@@ -1,0 +1,20 @@
+{
+    "name": "nlu_test1",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "body-parser": "~1.18.x",
+        "cfenv": "~1.0.0",
+        "ejs": "^2.3.4",
+        "express": "4.1.x",
+        "multer": "1.1.x",
+        "uuid": "3.3.0",
+        "watson-developer-cloud": "^3.13.0"
+    },
+    "repository": {},
+    "engines": {
+        "node": "6.x"
+    }
+}
